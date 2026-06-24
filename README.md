@@ -2,7 +2,7 @@
 
 A customized CoreDNS tailored for [@socheatsok78](https://github.com/socheatsok78), built with the following modules:
 
-- [gslb](github.com/dmachard/coredns-gslb)
+- [gslb](https://github.com/dmachard/coredns-gslb)
 
 To use this image, simply pull it from the GitHub Container Registry and use it as your base image in your Dockerfile:
 
