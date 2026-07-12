@@ -1,4 +1,6 @@
-<img src="https://coredns.io/images/CoreDNS_Colour_Horizontal.png" alt="CoreDNS" height="86px"><br />
+<a href="https://coredns.io/">
+    <img src="https://coredns.io/images/CoreDNS_Colour_Horizontal.png" alt="CoreDNS" height="86px">
+</a><br /><br />
 
 A customized CoreDNS tailored for [@socheatsok78](https://github.com/socheatsok78), built with the following modules:
 
