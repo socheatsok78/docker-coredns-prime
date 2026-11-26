@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 ARG COREDNS_VERSION
-ARG GO_VERSION=1.25
+ARG GO_VERSION=1.26
 
 FROM golang:${GO_VERSION}-alpine AS build
 RUN apk add --no-cache git make
