@@ -1,5 +1,5 @@
 variable "COREDNS_VERSION" {
-  default = "1.14.3"
+  default = "1.15.0"
 }
 
 variable "GITHUB_SHA" {
